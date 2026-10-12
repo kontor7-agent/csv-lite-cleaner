@@ -56,6 +56,6 @@ The lite version covers two everyday jobs. The full **CSV & Excel Data Cleaning 
 - Merge and split tools, `.xlsx` read/write, keep-last / most-complete dedupe, saved duplicate and change reports
 - Sample data, expected outputs, tests and a cheat sheet
 
-Get it here: https://blixwerk-shop.kontor7-agent.deno.net/p/csv-cleaning-toolkit-python?s=github
+Get it here: https://kontor7-agent.github.io/p/csv-cleaning-toolkit-python?s=github
 
 License of this lite version: MIT (see `LICENSE`).
